@@ -1,0 +1,37 @@
+{
+    "theme_color": "#A00000",
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "scope": "/pwa-parcial-2-dwt3ah-ughetto-eliana/",
+    "start_url": "/pwa-parcial-2-dwt3ah-ughetto-eliana/index.html",
+    "name": "pelis.com",
+    "short_name": "pelis.com",
+    "description": "Ver peliculas gratis ",
+    "icons": [
+        {
+            "src": "/pwa-parcial-2-dwt3ah-ughetto-eliana/assets/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/pwa-parcial-2-dwt3ah-ughetto-eliana/assets/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/pwa-parcial-2-dwt3ah-ughetto-eliana/assets/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/pwa-parcial-2-dwt3ah-ughetto-eliana/assets/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/pwa-parcial-2-dwt3ah-ughetto-eliana/assets/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
